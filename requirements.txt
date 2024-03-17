@@ -1,3 +1,6 @@
 streamlit
 nltk
 ssl
+vader
+vader_lexicon
+pandas

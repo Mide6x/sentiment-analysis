@@ -8,7 +8,7 @@ nltk.download('vader_lexicon')
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-st.title("Sentiment Analysis App by Olumide Adewole")
+st.title("Sentiment Analysis App")
 
 user_name = st.text_input("What's your name?")
 if user_name:
